@@ -1,0 +1,17 @@
+.box{
+	width: 100px;
+	height: 100px;
+}
+.red{
+	
+	background-color:red 
+}
+.green{
+	
+	background-color:green;
+}
+.inline{
+	background-color: green;
+	color: red;
+	padding: 30px;
+	}
